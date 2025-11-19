@@ -1,0 +1,27 @@
+Low gravity zones that can be found throughout map
+AI with 3 states patrol chase and attack
+Animaiton rigging and aligning all the models
+Aniamtions transitions
+Menu screen (also escape to pause / restart)
+Back to menu screen on death
+Game Map (barring farm prefabs)
+Enemy Bean and its model and prefabs
+Scripts ThirdPersonMovementAndActions, EnemyAI,MainMenu,EnemyCount,EnemyBullet
+,PlayerHealth,OptionMenu,BulletController,HealthBar, Switch_cam
+Collision Detection and Collision feedback
+Pathfinding using Nav Mesh
+Win by killing all beans, lose by letting them kill you first
+Varied enemy health and attack speed
+Very Specific hitboxes on player
+Able to Path up slants and chnaged the angle so AI doesnt path on farmhouse roof slants
+Code well structured using headers
+Winner screen on win
+
+Things to know:
+Controls standard WASD for movement
+Esc for pausing
+Left click to shoot
+Right CLick to focus aim
+Spacebar to jump (Jump height changes depending on gravity)
+Start from menu scene
+
